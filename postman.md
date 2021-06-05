@@ -1,5 +1,5 @@
 # LocalSetupGuide
-Introduction
+**Introduction**
 
 Postman is a standalone software testing API (Application Programming Interface) platform to build, test, design, modify, and document APIs. 
 It is a simple Graphic User Interface for sending and viewing HTTP requests and responses.
