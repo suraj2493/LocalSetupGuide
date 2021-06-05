@@ -23,7 +23,7 @@ There are many ways to allow Cartography to pull from more than one AWS account.
    Set up a trust relationship so that the Spoke accounts will allow the Hub account to assume the cartography-read-only role. The resulting trust relationship should look something like this:
 
    {
-          "Version": "2012-10-17",
+      "Version": "2012-10-17",
           "Statement": [
             {
               "Effect": "Allow",
