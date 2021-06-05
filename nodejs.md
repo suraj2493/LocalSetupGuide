@@ -1,5 +1,6 @@
 # LocalSetupGuide
-**Introduction**
+**Introduction:**
+
 Node.js is a run-time environment which includes everything you need to execute a program written in JavaScript. It’s used for running scripts on the server to render content before it is delivered to a web browser.
 
 NPM stands for Node Package Manager, which is an application and repository for developing and sharing JavaScript code.
