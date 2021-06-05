@@ -23,7 +23,9 @@ In a web browser, navigate to https://nodejs.org/en/download/. Click the Windows
 **Step 3: Verify Installation**
 
 Open a command prompt (or PowerShell), and enter the following:
+
 node -v
 
 The system should display the Node.js version installed on your system. You can do the same for NPM:
+
 npm -v
