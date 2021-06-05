@@ -3,6 +3,7 @@
 **Amazon Web Services Configuration**
 
 Follow these steps to analyze AWS assets with Cartography.
+
 **Single AWS Account Setup**
 
    Set up an AWS identity (user, group, or role) for Cartography to use. Ensure that this identity has the built-in AWS SecurityAudit policy (arn:aws:iam::aws:policy/SecurityAudit) attached. This policy grants access to read security config metadata.
